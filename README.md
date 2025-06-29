@@ -47,3 +47,10 @@ Contents of the ZIP package:
 ```bash
 pip install PyPDF2
 python pdf_merger.py
+
+
+## 🖼️ Screenshot
+
+Here’s how the PDF Merger looks:
+
+![PDF Merger Screenshot](docs/screenshot.png)
