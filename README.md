@@ -18,7 +18,7 @@ A lightweight desktop application built with Python and Tkinter.
 
 ## 📦 Download
 
-👉 [Download the latest version from the Releases tab](https://github.com/USERNAME/pdf-merger-gui/releases)
+👉 [Download the latest version from the Releases tab](https://github.com/jimpark0711/pdf-merger-gui/releases)
 
 Contents of the ZIP package:
 - `pdf_merger.exe` – Executable file  
@@ -40,7 +40,7 @@ Contents of the ZIP package:
 
 ### Option 1: Use the pre-built `.exe` (Windows)
 
-1. Download `pdf_merger.exe` from [Releases](https://github.com/USERNAME/pdf-merger-gui/releases)  
+1. Download `pdf_merger.exe` from [Releases](https://github.com/jimpark0711/pdf-merger-gui/releases)  
 2. Double-click to launch the GUI  
 3. Select PDFs → Arrange order → Click **Merge PDFs**
 
@@ -81,4 +81,4 @@ You are free to use, modify, and distribute it—even commercially.
 ## 🤝 Contributing
 
 Pull requests are welcome!  
-Feel free to open an [Issue](https://github.com/USERNAME/pdf-merger-gui/issues) for bug reports or suggestions.
+Feel free to open an [Issue](https://github.com/jimpark0711/pdf-merger-gui/issues) for bug reports or suggestions.
