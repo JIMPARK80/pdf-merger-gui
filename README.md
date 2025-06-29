@@ -7,12 +7,12 @@ A lightweight desktop application built with Python and Tkinter.
 
 ## ✅ Features
 
-- 📂 Select 2 or more PDF files
-- 🔼🔽 Reorder files before merging
-- 💾 Choose where to save the output file
-- 🖱️ Simple GUI interface (no command line needed)
-- ⚙️ Runs as a standalone `.exe` (no installation required)
-- 🌐 Bilingual UI (Korean + English)
+- 📂 Select 2 or more PDF files  
+- 🔼🔽 Reorder files before merging  
+- 💾 Choose where to save the output file  
+- 🖱️ Simple GUI interface (no command line needed)  
+- ⚙️ Runs as a standalone `.exe` (no installation required)  
+- 🌐 Bilingual UI (Korean + English)  
 
 ---
 
@@ -23,34 +23,62 @@ A lightweight desktop application built with Python and Tkinter.
 Contents of the ZIP package:
 - `pdf_merger.exe` – Executable file  
 - `README_KR.txt` – Korean instruction  
-- `pdf-merger.ico` – Icon file (optional)
+- `pdf-merger.ico` – Icon file (optional)  
 
 ---
 
 ## 🛠 Built With
 
-- Python 3.10
-- Tkinter (GUI)
-- PyPDF2 (PDF processing)
-- PyInstaller (for `.exe` packaging)
+- Python 3.10  
+- Tkinter (GUI)  
+- PyPDF2 (PDF processing)  
+- PyInstaller (for `.exe` packaging)  
 
 ---
 
 ## 🚀 How to Use
 
 ### Option 1: Use the pre-built `.exe` (Windows)
-1. Download `pdf_merger.exe` from [Releases](https://github.com/USERNAME/pdf-merger-gui/releases)
-2. Double-click to launch the GUI
+
+1. Download `pdf_merger.exe` from [Releases](https://github.com/USERNAME/pdf-merger-gui/releases)  
+2. Double-click to launch the GUI  
 3. Select PDFs → Arrange order → Click **Merge PDFs**
 
 ### Option 2: Run the source code
+
 ```bash
 pip install PyPDF2
 python pdf_merger.py
+```
 
+---
 
 ## 🖼️ Screenshot
 
 Here’s how the PDF Merger looks:
 
 ![PDF Merger Screenshot](docs/screenshot.png)
+
+Simple and clean interface to select, sort, and merge your PDF files.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute it—even commercially.
+
+---
+
+## 👤 Author
+
+- **Name:** Jinsung Park  
+- **Email:** [van0711@gmail.com](mailto:van0711@gmail.com)  
+- **Portfolio:** [https://jimpark.dev](https://jimpark.dev)
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome!  
+Feel free to open an [Issue](https://github.com/USERNAME/pdf-merger-gui/issues) for bug reports or suggestions.
